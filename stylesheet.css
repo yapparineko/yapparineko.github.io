@@ -1,0 +1,67 @@
+.title {
+    color: rgb(2, 79, 212);
+    font-size: 70px;
+    font-family: serif;
+    letter-spacing: 7px;
+  }
+
+.container {
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+  
+.top {
+    padding: 100px 0 80px 0; 
+    background-image: url(https://cdn.pixabay.com/photo/2020/05/09/07/41/cassettes-5148602_1280.jpg);
+    background-color: rgba(255, 255, 255, 0.6);
+    background-blend-mode: lighten;
+    text-align: center;
+  }
+
+.image {
+    padding: 0 0 15px 0;
+    text-align: right;
+    font-size: 12px;
+  }
+
+.first {
+    padding: 50px 0;
+}
+
+.table {
+    padding: 15px 0px 40px 120px;
+    background-color: rgb(238, 248, 254);
+    line-height:250%;
+    text-align: left;
+    letter-spacing: 1px;
+}
+
+.text h2 {
+    padding-top: 110px;
+    border-bottom: solid 3px rgb(247, 220, 172);
+    letter-spacing: 1px;
+}
+
+.btn {
+    width: 1100px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.btn p {
+    padding-top: 20px;
+}
+
+.btn-k p {
+    padding-top: 30px;
+    padding-bottom: 200px;
+}
+
+.name {
+    text-align: right;
+}
+
+.name p {
+    font-size: 5px;
+}
